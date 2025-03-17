@@ -1,0 +1,12 @@
+﻿  OBJ.cpp
+D:\大学\学习\在学\计算机原理与体系结构\第一次编程作业\PJ_final\OBJ.cpp(247,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\学习\在学\计算机原理与体系结构\第一次编程作业\PJ_final\OBJ.cpp(248,20): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\学习\在学\计算机原理与体系结构\第一次编程作业\PJ_final\OBJ.cpp(260,37): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\学习\在学\计算机原理与体系结构\第一次编程作业\PJ_final\OBJ.cpp(261,37): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\大学\学习\在学\计算机原理与体系结构\第一次编程作业\PJ_final\OBJ.cpp(283,92): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+D:\大学\学习\在学\计算机原理与体系结构\第一次编程作业\PJ_final\OBJ.cpp(288,96): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+D:\大学\学习\在学\计算机原理与体系结构\第一次编程作业\PJ_final\OBJ.cpp(293,96): warning C4244: “=”: 从“double”转换到“BYTE”，可能丢失数据
+D:\大学\学习\在学\计算机原理与体系结构\第一次编程作业\PJ_final\OBJ.cpp(445,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大学\学习\在学\计算机原理与体系结构\第一次编程作业\PJ_final\OBJ.cpp(446,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\大学\学习\在学\计算机原理与体系结构\第一次编程作业\PJ_final\OBJ.cpp(224): warning C4715: “imread”: 不是所有的控件路径都返回值
+  PJ_final.vcxproj -> D:\大学\学习\在学\计算机原理与体系结构\第一次编程作业\PJ_final\x64\Debug\PJ_final.exe
